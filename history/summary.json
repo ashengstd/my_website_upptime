@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascka.serv00.net.ico",
     "slug": "serv00",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 731,
-    "timeDay": 961,
-    "timeWeek": 737,
-    "timeMonth": 766,
-    "timeYear": 731,
+    "uptimeYear": "99.99%",
+    "time": 727,
+    "timeDay": 433,
+    "timeWeek": 687,
+    "timeMonth": 750,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2024-11-14": 23
     }
