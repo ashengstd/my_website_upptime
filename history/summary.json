@@ -4,18 +4,19 @@
     "url": "https://ascka.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ascka.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 703,
-    "timeDay": 906,
-    "timeWeek": 648,
-    "timeMonth": 649,
-    "timeYear": 703,
+    "time": 704,
+    "timeDay": 635,
+    "timeWeek": 701,
+    "timeMonth": 667,
+    "timeYear": 704,
     "dailyMinutesDown": {
+      "2025-04-19": 0,
       "2024-11-14": 23
     }
   },
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 349,
-    "timeWeek": 205,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 263,
+    "timeDay": 145,
+    "timeWeek": 185,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
