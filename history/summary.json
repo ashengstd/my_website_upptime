@@ -11,8 +11,8 @@
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.68%",
     "time": 723,
-    "timeDay": 644,
-    "timeWeek": 732,
+    "timeDay": 687,
+    "timeWeek": 735,
     "timeMonth": 747,
     "timeYear": 722,
     "dailyMinutesDown": {
@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/config.ascka.qzz.io.ico",
     "slug": "edge",
     "status": "down",
-    "uptime": "28.22%",
-    "uptimeDay": "28.22%",
-    "uptimeWeek": "28.22%",
-    "uptimeMonth": "28.22%",
-    "uptimeYear": "28.22%",
-    "time": 5140,
-    "timeDay": 5140,
-    "timeWeek": 5140,
-    "timeMonth": 5140,
-    "timeYear": 5140,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 2745,
+    "timeDay": 2745,
+    "timeWeek": 2745,
+    "timeMonth": 2745,
+    "timeYear": 2745,
     "dailyMinutesDown": {
-      "2026-02-26": 0
+      "2026-02-26": 54
     }
   },
   {
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 251,
-    "timeDay": 144,
-    "timeWeek": 143,
+    "timeDay": 167,
+    "timeWeek": 151,
     "timeMonth": 205,
     "timeYear": 251,
     "dailyMinutesDown": {
