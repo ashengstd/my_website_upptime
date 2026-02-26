@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ascka.qzz.io
   # baseUrl: /StatusPage
-  themeUrl: https://ashengstd.github.io/StatusPage/catppuccin.css
+  themeUrl: https://status.ascka.qzz.io/catppuccin.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ascka Status
   introTitle: "**Ascka's Status**"
