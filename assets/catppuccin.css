@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #1e1e2e; /* base */
+  --body-text-color: #cdd6f4; /* text */
+  --card-background-color: #313244; /* surface0 */
+  --nav-background-color: #181825; /* mantle */
+  --nav-border-bottom-color: #11111b; /* crust */
+  --nav-current-border-bottom-color: #cba6f7; /* mauve */
+  --card-border-color: #45475a; /* surface1 */
+  --down-border-left-color: #f38ba8; /* red */
+  --down-background-color: #4c3043; /* faded red mix */
+  --degraded-border-left-color: #f9e2af; /* yellow */
+  --up-border-left-color: #a6e3a1; /* green */
+  --tag-color: #11111b;
+  --tag-up-background-color: #a6e3a1;
+  --tag-down-background-color: #f38ba8;
+  --tag-degraded-background-color: #f9e2af;
+  --change-background-color: #f9e2af;
+  --error-button-border-color: #cba6f7;
+  --error-button-background-color: #cba6f7;
+  --error-button-color: #11111b;
+  --submit-button-border-color: #89b4fa; /* blue */
+  --submit-button-background-color: #89b4fa;
+  --submit-button-color: #11111b;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
