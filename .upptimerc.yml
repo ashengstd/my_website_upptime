@@ -11,8 +11,6 @@ sites:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
   - name: Blog 
     url: https://blog.tomorrowisinyourhands.fun/
-  - name: WebhookTest
-    url: https://this-is-a-fake-url-to-test-bark.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
