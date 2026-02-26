@@ -7,6 +7,8 @@ sites:
     url: https://ascka.serv00.net/
   - name: Edge
     url: https://config.ascka.qzz.io/ui/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
   - name: Blog 
     url: https://blog.tomorrowisinyourhands.fun/
 
@@ -15,10 +17,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /StatusPage
+  themeUrl: ./assets/catppuccin.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Ascka Status
+  introTitle: "**Ascka's Status**"
+  introMessage: Welcome to Ascka's service status monitoring page, which displays the online status of all nodes and services in real-time.
   navbar:
     - title: Status
       href: /
