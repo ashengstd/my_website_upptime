@@ -4,18 +4,20 @@
     "url": "https://ascka.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ascka.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 723,
-    "timeDay": 720,
-    "timeWeek": 719,
-    "timeMonth": 742,
+    "timeDay": 698,
+    "timeWeek": 723,
+    "timeMonth": 743,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-27": 0
+    }
   },
   {
     "name": "Edge",
@@ -29,12 +31,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2762,
-    "timeDay": 2762,
+    "timeDay": 4144,
     "timeWeek": 2762,
     "timeMonth": 2762,
     "timeYear": 2762,
     "dailyMinutesDown": {
-      "2026-02-27": 158,
+      "2026-02-27": 747,
       "2026-02-26": 894
     }
   },
@@ -50,7 +52,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 176,
+    "timeDay": 198,
     "timeWeek": 163,
     "timeMonth": 198,
     "timeYear": 250,
