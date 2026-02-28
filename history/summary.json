@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascka.serv00.net.ico",
     "slug": "serv00",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "97.06%",
     "uptimeDay": "94.93%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "95.74%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "97.06%",
     "time": 723,
-    "timeDay": 771,
-    "timeWeek": 734,
-    "timeMonth": 746,
-    "timeYear": 723,
+    "timeDay": 794,
+    "timeWeek": 723,
+    "timeMonth": 745,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2026-02-27": 73
     }
@@ -30,13 +30,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2762,
-    "timeDay": 4144,
-    "timeWeek": 2762,
-    "timeMonth": 2762,
-    "timeYear": 2762,
+    "time": 3212,
+    "timeDay": 7713,
+    "timeWeek": 3212,
+    "timeMonth": 3212,
+    "timeYear": 3212,
     "dailyMinutesDown": {
-      "2026-02-27": 820,
+      "2026-02-28": 147,
+      "2026-02-27": 1440,
       "2026-02-26": 894
     }
   },
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 198,
-    "timeWeek": 163,
+    "time": 249,
+    "timeDay": 111,
+    "timeWeek": 160,
     "timeMonth": 198,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
